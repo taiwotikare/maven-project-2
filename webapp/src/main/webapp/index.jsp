@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Sample Java Webapp</h1>
-  <p>Hello JJTech World!</p>
+  <h1>Finest-Foods-DMV</h1>
+  <p>We give you nothing but the finest!</p>
 </div>
 </body>
 </html>
